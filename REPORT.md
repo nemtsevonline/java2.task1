@@ -7,7 +7,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/nemtsevonline/java2.task1/issues1
+* https://github.com/nemtsevonline/java2.task1/issues/1 
 
 
 ## Описание процесса тестирования
