@@ -7,13 +7,13 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/nemtsevonline/java2.task1/issues/1 
+* [Некорректная сумма на счете клиента после перевода дополнительных денег] (https://github.com/nemtsevonline/java2.task1/issues/1)
 
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* Домашнее задание к занятию «1.2. Программирование на Java: переменные, операторы, работа с отладчиком» https://github.com/netology-code/javaqa-homeworks/tree/master/programming
+* [Домашнее задание к занятию «1.2. Программирование на Java: переменные, операторы, работа с отладчиком» (https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
 
 В качестве тестовых данных использовался код базового приложения Money Transfer. 
 
